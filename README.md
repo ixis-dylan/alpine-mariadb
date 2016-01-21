@@ -1,2 +1,4 @@
-# alpine-mariadb
-MariaDB container built on Alpine Linux.
+# docker mariasb using alpine
+
+$DB_USER
+$DB_PASS
